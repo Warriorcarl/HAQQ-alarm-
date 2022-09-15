@@ -9,9 +9,9 @@ echo "***" | tee -a $LOG;
 echo `date` Start `basename $0 .sh` | tee -a $LOG;
 
 
-BOT_TOKEN='5594922020:AAFakM_OLIy1fMN-IYmxkFoSO0gOx4EiZ6o'
-#CHANNEL_ID="@snsmln_haqq"
-CHANNEL_ID="-1001779145507"
+BOT_TOKEN='***'
+#CHANNEL_ID="@***"
+CHANNEL_ID="-100***"
 
 ##
 DAEMON_STATUS=`systemctl status $DAEMON |grep Active | awk '{print $2}'`

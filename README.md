@@ -1,4 +1,4 @@
-# HAQQ---False-alarm-
+# HAQQ-alarm-
 
 1. Создаем телеграм бота здесь BotFather `https://telegram.me/botfather`. Посылаем команду `/newbot`. Придумываем боту имя , любое, в конце bot . 
 

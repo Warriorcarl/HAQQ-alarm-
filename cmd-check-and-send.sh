@@ -1,7 +1,5 @@
 #!/bin/bash
 
-## v0.1
-## cosmos
 
 source $HOME/.bash_profile
 
@@ -11,9 +9,9 @@ LOG=$DIR/`basename $0 .sh`.log
 echo "***" | tee -a $LOG;
 echo `date` Start `basename $0 .sh` | tee -a $LOG;
 
-BOT_TOKEN='5594922020:AAFakM_OLIy1fMN-IYmxkFoSO0gOx4EiZ6o'
-#CHANNEL_ID="@snsmln_haqq"
-CHANNEL_ID="-1001779145507"
+BOT_TOKEN='***'
+#CHANNEL_ID="@***"
+CHANNEL_ID="-100***"
 
 MIN_BLOCK_INC=5
 MIN_PEERS=10

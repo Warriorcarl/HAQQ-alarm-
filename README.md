@@ -17,8 +17,6 @@
 
 8. Glad we don't have to stare at the logs all the time
 
-Translated with www.DeepL.com/Translator (free version)
-
 ![haqq  False alarm! 1](https://user-images.githubusercontent.com/76874974/190489346-95289dea-9607-48f1-97ac-3fd523c53042.png)
 ![haqq  False alarm! 2](https://user-images.githubusercontent.com/76874974/190489347-d1c19afc-685b-4525-9cd6-2109b336ef78.png)
 
